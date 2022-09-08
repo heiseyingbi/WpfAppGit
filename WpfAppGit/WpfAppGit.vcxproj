@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="..\..\WpfAppGit2\WpfAppGit2\test.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\WpfAppGit2\WpfAppGit2\test.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{38D42104-905E-4808-9D7C-7363EFABC3F8}</ProjectGuid>

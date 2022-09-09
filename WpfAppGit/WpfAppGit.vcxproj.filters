@@ -21,6 +21,9 @@
     <ClCompile Include="..\..\WpfAppGit2\WpfAppGit2\test.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="sss.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\WpfAppGit2\WpfAppGit2\test.h">

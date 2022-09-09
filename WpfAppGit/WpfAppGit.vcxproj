@@ -20,7 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\WpfAppGit2\WpfAppGit2\test.cpp" />
-    <ClCompile Include="sss.cpp" />
     <ClCompile Include="test2.cpp" />
   </ItemGroup>
   <ItemGroup>
